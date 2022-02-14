@@ -15,7 +15,7 @@
 2. custom colors
 
 ## Instructions
-1. [Download](https://github.com/cookie0o/csgo-wallhack-with-UI/releases/download/v1.0/cs.go.wallhack.by.cookie0_o.exe) the executable `cs;go wallhack [by; cookie0_o].exe`
+1. [Download](https://github.com/cookie0o/csgo-wallhack-with-UI/releases/download/v1.0/cs.go.wallhack.by.cookie0_o.exe) the executable `cs.go.wallhack.by.cookie0_o.exe`
 2. Run the executable 
 3. change colors or don´t and click `apply and inject`
 4. (**maby donate crypto :)** )
