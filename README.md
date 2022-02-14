@@ -18,7 +18,7 @@
 1. [Download](put link here) the executable `cs;go wallhack [by; cookie0_o].exe`
 2. Run the executable 
 3. change colors or don´t and click `apply and inject`
-4. ( **maby donate crypto :)** )
+4. (**maby donate crypto :)** )
 5. **DONE!**
 
 ### 💀 USE AT YOUR OWN RISK 💀
