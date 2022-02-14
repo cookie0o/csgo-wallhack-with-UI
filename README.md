@@ -22,6 +22,7 @@
 5. **DONE!**
 
 ### 💀 USE AT YOUR OWN RISK 💀
-- I am not responsible for anything that happens
+- I am not responsible for anything that happens!
+- if you get banned im **not** responsible!
 - Anyways, use responsibly :)
  
