@@ -13,6 +13,7 @@
 # features;
 1. wallhack
 2. custom colors
+3. `(**VAC-BYPASS Currently only in compiled version!**)`
 
 ## Instructions
 1. [Download](https://github.com/cookie0o/csgo-wallhack-with-UI/releases/download/v1.0/cs.go.wallhack.by.cookie0_o.exe) the executable `cs.go.wallhack.by.cookie0_o.exe`
